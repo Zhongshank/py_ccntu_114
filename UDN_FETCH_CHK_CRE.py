@@ -3,7 +3,7 @@
 整合三個用途：
 1. 發送 GET 請求抓取聯合報熱門新聞頁面
 2. 解析原始 HTML，整理成 JSON 資料
-3. 將新增新聞寫入新的 JSON 檔，並在 Untitled-1.tex 末尾新增一個 section
+3. 將新增新聞寫入新的 JSON 檔，並在 Untitled-1.tx 末尾新增一個 section
 """
 
 from __future__ import annotations
