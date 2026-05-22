@@ -1,0 +1,3 @@
+#1214:01214..[41845] VP(addition:Cbcb:並且|Head:VF1:設法|goal:VP(Head:VC2:改善|goal:NP(property:N‧的(head:Nhaa:他們|Head:DE:的)|Head:Nad:生活)))#。(PERIODCATEGORY)
+#1219:01219..[41849] S(agent:NP(property:Nca:非洲|Head:Nab:土人)|Head:VG1:尊稱|theme:NP(Head:Nhaa:他)|range:PP(Head:P02:為|DUMMY:NP(Head:Nab:父親)))#。(PERIODCATEGORY)
+#1227:01227..[41856] VP(time:Dd:一面|Head:VC2:拍拍|goal:NP(property:NP‧的(head:NP(property:Nab:身|Head:Ncda:上)|Head:DE:的)|Head:Naa:灰塵))#，(COMMACATEGORY)
